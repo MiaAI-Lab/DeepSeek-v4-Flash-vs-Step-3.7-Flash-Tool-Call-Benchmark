@@ -1,6 +1,6 @@
 # DeepSeek-V4-Flash vs Step-3.7-Flash — Tool-Call Benchmark
 
-A head-to-head comparison of **DeepSeek-V4-Flash** and **Step-3.7-Flash-NVFP4** on the [tool-eval-bench v2.0.6](https://github.com/openai/tool-eval-bench) suite — 69 scenarios covering tool selection, multi-turn reasoning, structured output, safety, and agentic workflows.
+A head-to-head comparison of **DeepSeek-V4-Flash** and **Step-3.7-Flash-NVFP4** on the [tool-eval-bench v2.0.6](https://github.com/SeraphimSerapis/tool-eval-bench) suite — 69 scenarios covering tool selection, multi-turn reasoning, structured output, safety, and agentic workflows.
 
 Both models were served locally via **vLLM** on identical hardware.
 
